@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Ben 👋
 
-<!--
-**beneyal/beneyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Research Engineer at [Ai2](https://allenai.org/), working on agentic LLM systems. I like taking ideas from a whiteboard to deployed features that people actually use.
 
-Here are some ideas to get you started:
+- 🔭 Currently building [Paper Finder](https://asta.allen.ai), a multi-turn agentic search tool for scientific literature
+- 🎓 PhD from Ben-Gurion University on Text-to-SQL parsing
+- 📄 Published at [EMNLP 2023](https://aclanthology.org/2023.findings-emnlp.297/) and [LREC 2020](https://aclanthology.org/2020.lrec-1.763/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me
+
+- 🌐 [beneyal.com](https://beneyal.com)
+- 💼 [linkedin.com/in/beneyal](https://linkedin.com/in/beneyal)
+- 📫 [ben@beneyal.com](mailto:ben@beneyal.com)
